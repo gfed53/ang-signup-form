@@ -1,0 +1,30 @@
+.container {
+	max-width: 50em;
+	margin: 0 auto;
+}
+
+h1 {
+	text-align: center;
+	font-size: 4em;
+}
+
+.trans, .form-cont {
+	display: inline-block;
+}
+
+div {
+	text-align: center;
+}
+
+input {
+	display: block;
+	margin: 1em;
+	font-size: 1.2em;
+}
+
+.brand-logo {
+	background: url('super_mario.jpg') no-repeat center;
+	background-size: cover;
+	width: 20em;
+	height: 25em;
+}
